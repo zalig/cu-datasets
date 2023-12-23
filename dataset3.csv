@@ -1,5 +1,5 @@
-﻿Date;Person;Age;DailyPhoneUsageHours
-2024-09-01;Boris;23;2
-2024-09-02;Boris;23;1
-2024-09-01;Maria;20;2
-2024-09-02;Maria;21;4
+Date,Person,Age,DailyPhoneUsageHours
+2024-09-01,Boris,23,2
+2024-09-02,Boris,23,1
+2024-09-01,Maria,20,2
+2024-09-02,Maria,21,4
